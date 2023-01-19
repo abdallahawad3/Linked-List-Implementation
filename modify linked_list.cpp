@@ -1,6 +1,6 @@
 //Add an element before a specific element
 //Add elelemnt to the end of the list
-//add function delete 
+//add the function delete 
 #include <iostream>
 using namespace std;
 class node
